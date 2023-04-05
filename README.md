@@ -1,6 +1,6 @@
 [PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Home-Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation)  >> [Smart Home AC DC Power Management](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation/Smart%20Home%20AC%20%20Dc%20Power%20Management) >> Smart Power Switch / Outlet
 
-# Smart Power Switch / Outlet suitable for OEM enclosures with 54x54x45mm
+# Smart Power Switch / Outlet suitable for OEM Wall Boxes with 54x54x45++mm
 
 
 <p align="center">
