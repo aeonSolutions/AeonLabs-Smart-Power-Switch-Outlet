@@ -3,6 +3,8 @@
 # Smart Power Switch / Outlet
 suitable for OEM Wall Boxes with 54x54x45++mm
 
+<br>
+<br>
 
 <p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-Smart-Power-Switch-Outlet/blob/main/Designs/smart%20switch%20functionalities.jpeg" width=450>
