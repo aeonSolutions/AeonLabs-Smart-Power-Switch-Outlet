@@ -64,6 +64,12 @@ suitable for OEM Wall Boxes with 54x54x45++mm
 - [Home Assistant App](https://play.google.com/store/apps/details?id=io.homeassistant.companion.android&hl=en&gl=US)
 - [Home App | Hue, Arduino & More](https://play.google.com/store/apps/details?id=io.github.domi04151309.home)
 
+
+<p align="center">
+<img src="https://github.com/aeonSolutions/AeonLabs-Smart-Power-Switch-Outlet/blob/main/Designs/home%20app.jpeg" width=350>
+</p>
+
+
 <br />
 <br />
 
