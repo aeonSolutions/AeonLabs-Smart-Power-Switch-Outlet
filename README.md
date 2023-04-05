@@ -49,7 +49,15 @@
 
 ## What one additionally needs
 - [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
+
+<p align="center">
+<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Designs/get_it_google_play.png">
+ 
+</p>
+ 
 - [Android Home App](https://github.com/aeonSolutions/AeonLabs-Home-Automation-Android-HomeApp)
+- [Home Assistant App](https://play.google.com/store/apps/details?id=io.homeassistant.companion.android&hl=en&gl=US)
+- [Home App | Hue, Arduino & More](https://play.google.com/store/apps/details?id=io.github.domi04151309.home)
 
 <br />
 <br />
