@@ -50,8 +50,10 @@
 ## What one additionally needs
 - [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
 
+<br>
+
 <p align="center">
-   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Designs/get_it_google_play.png" height=50 >
+   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Designs/get_it_google_play.png" height=70 >
 </p>
  
 - [Android Home App](https://github.com/aeonSolutions/AeonLabs-Home-Automation-Android-HomeApp)
