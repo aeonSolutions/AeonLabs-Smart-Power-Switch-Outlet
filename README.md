@@ -14,7 +14,7 @@
 <img src="https://github.com/aeonSolutions/AeonLabs-Smart-Power-Switch-Outlet/blob/main/Designs/smart%20switch.jpeg" width=450>
 </p>
 
-
+<br>
 
 ## Installed on a Wall box
 
