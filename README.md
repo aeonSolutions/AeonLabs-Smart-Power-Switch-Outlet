@@ -1,7 +1,8 @@
 [PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Home-Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation)  >> [Smart Home AC DC Power Management](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation/Smart%20Home%20AC%20%20Dc%20Power%20Management) >> Smart Power Switch / Outlet
 
 # Smart Power Switch / Outlet
-suitable for OEM Wall Boxes with 54x54x45++mm
+The smart outlet PCB designed specifically to fit traditional wall mount light switch boxes with dimensions 54x54x45++mm, brings a new level of convenience and functionality to residential and commercial spaces. This innovative solution seamlessly replaces the conventional light switch, providing users with the ability to control their lighting or other connected devices remotely. The compact PCB design ensures a perfect fit within the existing switch box, eliminating the need for any additional modifications or wiring. With features like wireless connectivity, compatibility with voice assistants, and programmable scheduling, this smart outlet PCB revolutionizes the way we interact with our electrical systems, making our lives more efficient and comfortable.
+
 
 <br>
 <br>
