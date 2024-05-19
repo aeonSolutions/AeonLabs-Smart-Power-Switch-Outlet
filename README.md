@@ -5,8 +5,8 @@
 <p align="left"> 
  <img height="15" src="https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_green.png"> 
 <b>Status:</b>
- Hardware electronics are Fully tested and working. First 🥇 release of the firmware code is now available. <br>
-&nbsp; Looking for someone available to collaborate on the firmware coding. If you like this project and want faster development, prototyping and testing consider a donation or sponsoring. thank you 🙏.
+ Hardware electronics are Fully tested and working. The first 🥇 release of the firmware code is now available. <br>
+&nbsp; Looking for someone available to collaborate on the firmware coding. If you like this project and want faster development, prototyping, and testing consider a donation or sponsoring. thank you 🙏.
  </p>
 
  ## Intro
@@ -23,8 +23,6 @@ If you prefer, can read this project on ....
 - Hackster.io website [here](https://www.hackster.io/mtpsilva/smart-add-on-for-the-philips-senseo-coffee-machine-06d9bf)
 - Medium.com webiste [here](https://medium.com/@mtpsilva)
   
-I've created a WhatsApp Chat for aditional support of feedback, join us [here](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) !
-
 <br>
 <br>
 
@@ -52,9 +50,9 @@ I've created a WhatsApp Chat for aditional support of feedback, join us [here](h
 <br>
 
 ## OEM Firmware code
-The OEM version of the firmware code can be found on the folder **firmware code**.  It has by default OTA updates, meaning this smart switch device automatically updates it self when newer updated versions made available here.  
+The OEM version of the firmware code can be found in the folder **firmware code**.  It has by default OTA updates, meaning this smart switch device automatically updates itself when newer updated versions are made available here.  
 
-This code uses my own ESP32 c++ class libraries to expedite development of code of ESP32 microcontrollers. The repository is located [here](https://github.com/aeonSolutions/aeonlabs-ESP32-C-Base-Firmware-Libraries#readme) for anyone to use.
+This code uses my own ESP32 C++ class libraries to expedite the development of code for ESP32 microcontrollers. The repository is located [here](https://github.com/aeonSolutions/aeonlabs-ESP32-C-Base-Firmware-Libraries#readme) for anyone to use.
 
 <br>
 
@@ -125,7 +123,7 @@ You can also follow my GitHub Profile to stay updated about my latest projects: 
 <br>
 
 ### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
-The PCB Desgin Files i provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
+The PCB Design Files i provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
 
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />](https://www.buymeacoffee.com/migueltomas)
 
