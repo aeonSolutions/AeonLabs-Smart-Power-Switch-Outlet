@@ -34,7 +34,9 @@ If you prefer, can read this project on ....
 <br>
 
 ### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_green.png) Status
-  Fully working.
+✓🟢 Fully tested & working. <br>
+⚠️ Power consumption can be improved.
+
   
   <p align="center">
 <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/testing_phase_alpha.jpg" height="300">
