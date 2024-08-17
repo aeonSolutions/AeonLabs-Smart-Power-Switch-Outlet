@@ -11,7 +11,7 @@ The smart outlet PCB designed specifically to fit traditional wall mount light s
 Last update: 01-12-2023
 </p>
 
-If you prefer, can read this project on ....
+If you prefer, can read this project on...
 
 - Autodesk's Intructables.com website, [here](https://www.instructables.com/member/mtpsilva/?publicPreview=true)
 - Hackster.io website [here](https://www.hackster.io/mtpsilva/smart-add-on-for-the-philips-senseo-coffee-machine-06d9bf)
@@ -33,7 +33,7 @@ If you prefer, can read this project on ....
 
 <br>
 
-### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_green.png) Status
+### <img height="17" src="https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_green.png" > Status
 ✓🟢 Fully tested & working. <br>
 ⚠️ Power consumption can be improved.
 
